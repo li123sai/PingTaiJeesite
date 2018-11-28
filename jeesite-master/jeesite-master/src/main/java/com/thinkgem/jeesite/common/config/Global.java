@@ -150,7 +150,7 @@ public class Global {
 	}
 	
     /**
-     * 获取工程路径
+     * 获取工程路径 2018年11月28日 14:10:19
      * @return
      */
     public static String getProjectPath(){
